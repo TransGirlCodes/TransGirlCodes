@@ -8,7 +8,7 @@ evolutionary and Population Genomics, and I focused on the role genetic exchange
 in the adaptation of organisms to dynamic environments or situations such as "evolutionary arms-races".
 
 Now I enjoy working on all kinds of systems and problems, from assembling complex polyploid genomes and
-pangenomes to downstream analyses inferring population history or functional analyses.
+pangenomes, to downstream analyses inferring population history or functional analyses.
 
 
 
