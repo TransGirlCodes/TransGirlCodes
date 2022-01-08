@@ -7,7 +7,8 @@ as a PostDoc at the Earlham Institute. Biologically, my interests and background
 evolutionary and Population Genomics, and I focused on the role genetic exchange and gene flow play
 in the adaptation of organisms to dynamic environments or situations such as "evolutionary arms-races".
 
-
+Now I enjoy working on all kinds of systems and problems, from assembling complex polyploid genomes and
+pangenomes to downstream analyses inferring population history or functional analyses.
 
 
 
