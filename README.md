@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page
+## <img src="./trans_biojulia2.svg" width="30%" align="right" /> Welcome to my GitHub Page
 
 I'm Sabrina, retro computing enthusiast and professional Bioinformatician & Scientific Programmer.
 
