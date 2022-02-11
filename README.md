@@ -10,6 +10,10 @@ in the adaptation of organisms to dynamic environments or situations such as "ev
 Now I enjoy working on all kinds of systems and problems, from assembling complex polyploid genomes and
 pangenomes, to downstream analyses inferring population history or functional analyses.
 
+### Software Projects
+
+[BioJulia](https://github.com/BioJulia)
+[HybridCheck](https://github.com/vanOosterhoutLab/HybridCheck)
 
 
 <!--
