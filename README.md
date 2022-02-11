@@ -12,8 +12,8 @@ pangenomes, to downstream analyses inferring population history or functional an
 
 ### Software Projects
 
-[BioJulia](https://github.com/BioJulia)
-[HybridCheck](https://github.com/vanOosterhoutLab/HybridCheck)
+- [BioJulia](https://github.com/BioJulia)
+- [HybridCheck](https://github.com/vanOosterhoutLab/HybridCheck)
 
 
 <!--
