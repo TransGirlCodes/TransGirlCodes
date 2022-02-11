@@ -10,7 +10,9 @@ in the adaptation of organisms to dynamic environments or situations such as "ev
 Now I enjoy working on all kinds of systems and problems, from assembling complex polyploid genomes and
 pangenomes, to downstream analyses inferring population history or functional analyses.
 
-### Software Projects
+### Highlighted Work
+
+__Software Projects__
 
 - [BioJulia](https://github.com/BioJulia) - Software infrastructure for Genomics & Bioinformatics  
 - [HybridCheck](https://github.com/vanOosterhoutLab/HybridCheck) - R package for scripting scans for recombination regions in sequences.
