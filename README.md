@@ -2,6 +2,8 @@
 
 ### Bio
 
+**[She/Her, They/Them](https://en.pronouns.page/@sabrinajward)**
+
 I'm Sabrina, retro computing enthusiast and professional Bioinformatician & Scientific Programmer.
 
 I did my PhD in Evolutionarry Genomics at the University of East Anglia and since then have worked
@@ -11,9 +13,6 @@ in the adaptation of organisms to dynamic environments or situations such as "ev
 
 Now I enjoy working on all kinds of systems and problems, from assembling complex polyploid genomes and
 pangenomes, to downstream analyses inferring population history or functional analyses.
-
-#### Links
-- [My Linktree](https://linktr.ee/sabrinajward)
 
 ### Highlighted Work
 
