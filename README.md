@@ -4,7 +4,7 @@
 
 **[She/Her, They/Them](https://en.pronouns.page/@sabrinajward)**
 
-I'm Sabrina, retro computing enthusiast and professional Bioinformatician & Scientific Programmer.
+I'm Sabrina, professional Bioinformatician & Scientific Programmer and retro computing enthusiast.
 
 I did my PhD in Evolutionarry Genomics at the University of East Anglia and since then have worked
 as a PostDoc at the Earlham Institute. Biologically, my interests and background have been in
