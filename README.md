@@ -4,15 +4,17 @@
 
 **[She/Her, They/Them](https://en.pronouns.page/@sabrinajward)**
 
-I'm Sabrina, professional Bioinformatician & Scientific Programmer and retro computing enthusiast.
+Hi, I'm Sabrina.
 
-I did my PhD in Evolutionarry Genomics at the University of East Anglia and since then have worked
-as a PostDoc at the Earlham Institute. Biologically, my interests and background have been in
-evolutionary and Population Genomics, and I focused on the role genetic exchange and gene flow play
+- Former professional Bioinformatician
+  - PhD in Evolutionary Genomics.
+    - The role genetic exchange and gene flow play
 in the adaptation of organisms to dynamic environments or situations such as "evolutionary arms-races".
-
-Now I enjoy working on all kinds of systems and problems, from assembling complex polyploid genomes and
-pangenomes, to downstream analyses inferring population history or functional analyses.
+  - Worked as a bioinformatician working on a wide range of problems and projects:
+    - Population genomics of fungi using HiFi read data to construct de-novo genomes.
+    - Development of a hybrid genome assembler framework.
+    - Assembling complex polyploid genomes.
+    - Assembling pangenomes.
 
 ### Highlighted work
 
