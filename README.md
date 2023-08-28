@@ -6,17 +6,20 @@
 
 Hi, I'm Sabrina.
 
-- Former professional Bioinformatician
-  - PhD in Evolutionary Genomics.
-    - The role genetic exchange and gene flow play
-in the adaptation of organisms to dynamic environments or situations such as "evolutionary arms-races".
-  - Worked as a bioinformatician working on a wide range of problems and projects:
+#### Career
+##### Academia
+- PhD in Evolutionary Genomics.
+    - The role genetic exchange and gene flow play in the adaptation of organisms to dynamic environments or situations such as "evolutionary arms-races".
+- Bioinformatician working on a wide range of problems and projects:
     - Population genomics of fungi using HiFi read data to construct de-novo genomes.
     - Development of a hybrid genome assembler framework.
     - Assembling complex polyploid genomes.
     - Assembling pangenomes.
 
-### Highlighted work
+##### Industry
+- Software and Infrastructure developer for Actuarial and Financial departments for a well-known UK GI Company.
+
+#### Highlighted work
 
 __Software projects__
 
